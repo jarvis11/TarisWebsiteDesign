@@ -483,7 +483,7 @@ h2.entry-title a:hover{
 
 a.navbar-brand{
 	/**background: #605ABF;**/
-	background: rgba(240,240,240, 0.75);
+	background: rgba(240,240,240, 0.9);
 
 	padding: 4px 10px;
 }
@@ -1130,7 +1130,7 @@ ul.navbar-nav li.search{
 	position: absolute;
 	border-width: 40px;
 	top: 50%;
-	border-left-color: #E22128;
+	border-left-color: #605ABF;
 	margin-top: -40px;
 }
 
