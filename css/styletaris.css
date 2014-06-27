@@ -1507,7 +1507,7 @@ h4.panel-title a.collapsed:after {
 	color: #636363;
 }
 
-.testimonial-slide .testimonial-text:before{
+/*.testimonial-slide .testimonial-text:before{
 	content: '\f10d';
 	font-family: FontAwesome;
 	padding-right: 10px;
@@ -1518,7 +1518,7 @@ h4.panel-title a.collapsed:after {
 	font-family: FontAwesome;
 	padding-left: 10px;
 	color: #605ABF;
-}
+}*/
 
 /* Action
 ================================================== */
@@ -1730,7 +1730,7 @@ h3.footer-title:after{
 
 /*-- Footer bottom --*/
 .footer-bottom{
-	background: #605ABF;
+	background: #424242;
 }
 
 .footer-bottom-menu{
@@ -1745,7 +1745,7 @@ h3.footer-title:after{
 }
 
 .footer-bottom-menu li a{
-	color: #6e1518;
+	color: #fff;
 	font-size: 16px;
 	font-weight: 500;
 }
